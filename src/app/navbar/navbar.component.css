@@ -1,0 +1,22 @@
+nav {
+  background-color: grey;
+  font-family: 'Lato', sans-serif;
+}
+
+.logo {
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.5em;
+}
+
+ul.vav a {
+
+}
+
+ul.vav a:hover {
+
+}
+
+.active>a{
+  background color: blue;
+}
